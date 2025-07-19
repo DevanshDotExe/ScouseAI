@@ -1,0 +1,26 @@
+# Web Server
+fastapi
+uvicorn
+fastapi-cors
+
+# Web Scraping
+requests
+beautifulsoup4
+
+# Database
+SQLAlchemy
+psycopg2-binary
+
+# --- AI / Machine Learning (Pinned Versions) ---
+# By specifying the exact versions, we guarantee compatibility.
+transformers==4.38.2
+datasets==2.18.0
+evaluate==0.4.1
+accelerate==0.27.2
+torch
+spacy
+
+# Utilities for ML and Training
+scikit-learn
+huggingface_hub
+pydantic-settings
